@@ -26,7 +26,8 @@
 ![ZAVA26](https://user-images.githubusercontent.com/97006299/152652704-d8c5e5d0-0d0a-4ce3-8015-40124861e7a0.PNG)
 ![ZAVA27](https://user-images.githubusercontent.com/97006299/152652706-dcff4a3f-ecb7-464f-8826-4945bfa7caa5.PNG)
 ![ZAVA28](https://user-images.githubusercontent.com/97006299/152652716-cf47b81b-3ea1-4f81-afec-a460968014be.PNG)
-![ZAVA29](https://user-images.githubusercontent.com/97006299/152652723-16cca1ee-2152-4daa-9d86-1909ea302f1c.PNG)
-![ZAVA30](https://user-images.githubusercontent.com/97006299/152652724-6c4813db-d2fd-4b5a-931b-cf953f95c41f.PNG)
+![zava29](https://user-images.githubusercontent.com/96754846/156691354-392325db-50a3-4876-9ca1-20aba48c4481.PNG)
+![zava30](https://user-images.githubusercontent.com/96754846/156691467-3e3bc000-360c-4cf8-a2d2-fe59d441089a.PNG)
 ![ZAVA31](https://user-images.githubusercontent.com/97006299/152652727-fd6cb2d4-6018-42a5-9e1a-84808b032308.PNG)
 ![ZAVA32](https://user-images.githubusercontent.com/97006299/152652729-4a750194-ffec-44a1-8472-abb124d761ed.PNG)
+
